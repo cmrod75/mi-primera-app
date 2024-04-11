@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './persona.component.css'
 })
 export class PersonaComponent {
-
+    nombre = 'Cristian'
+    apellido = 'Rodriguez'
+    edad = 48
 }
